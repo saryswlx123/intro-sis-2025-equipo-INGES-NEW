@@ -6,16 +6,17 @@
 - **Actividad:** Creación y redacción inicial del archivo README.md con la descripción del proyecto.
 
 ## 2025-08-20
-- **Responsable:** Lizeth Fernanda Bayona Reyes   
+- **Responsable:** Sarey Nalieth Salguero Landinez   
 - **Rama:** main 
-- **Pull Request:** #2  
 - **Actividad:** Creación de la carpetas y archivos, estructura base del repositorio.
   
 ## 2025-08-20
-- **Responsable:** Sarey Nalieth Salguero Landinez   
-- **Rama:** main  
+- **Responsable:** Lizeth Fernanda Bayona Reyes   
+- **Rama:** docs/  
 - **Pull Request:** #2  
-- **Actividad:** Creación de la carpeta `docs/` y adición del archivo `bitacora.md` con la bitacora sobre las fechas y actividades desrroloadas por cada integrante.
+- **Actividad:** Creaccion y adiccion del documento con ejemplos del uso básico de Markdown
+(títulos, listas, enlaces, imágenes, tablas, código).
+
   
 ## 2025-08-20
 - **Responsable:** Jesus David Suarez Henao  
