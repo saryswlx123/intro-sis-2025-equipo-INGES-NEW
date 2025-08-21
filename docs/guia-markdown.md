@@ -2,7 +2,7 @@
 
 Esta guía muestra ejemplos básicos que puedes usar en la documentación del proyecto.
 
-"## 1. Títulos
+## 1. Títulos
 "# Título H1
 "## Título H2
 "### Título H3
