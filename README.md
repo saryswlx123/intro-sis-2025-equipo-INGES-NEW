@@ -1,4 +1,4 @@
-# intro-sis-2025-equipo-INGES
+# intro-sis-2025-equipo-INGES NEW
  # Proyecto Intro-SIS-2025
 
 Repositorio creado para la materia de Introducción a los Sistemas, con el fin de aprender el uso de GitHub desde la interfaz web.
