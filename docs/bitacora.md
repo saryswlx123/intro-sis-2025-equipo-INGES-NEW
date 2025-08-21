@@ -12,7 +12,7 @@
   
 ## 2025-08-20
 - **Responsable:** Lizeth Fernanda Bayona Reyes   
-- **Rama:** docs/  
+- **Rama:** docs/guia-markdown.md
 - **Pull Request:** #2  
 - **Actividad:** Creaccion y adiccion del documento con ejemplos del uso básico de Markdown
 (títulos, listas, enlaces, imágenes, tablas, código).
