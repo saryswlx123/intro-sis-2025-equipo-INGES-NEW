@@ -17,6 +17,11 @@
 (títulos, listas, enlaces, imágenes, tablas, código).
 
 ## 2025-08-20
+- **Responsable:** Sarey Nalieth Salguero Landinez   
+- **Rama:** docs/bitacora
+- **Actividad:** Creaccion de la bitácora sobre las actividades realizadas por el equipo.
+  
+## 2025-08-20
 - **Responsable:** Jesus David Suarez Henao  
 - **Rama:** main  
 - **Actividad:** Integración de issues y pull request.
