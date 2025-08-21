@@ -2,11 +2,11 @@
 
 Esta guía muestra ejemplos básicos que puedes usar en la documentación del proyecto.
 
-## 1. Títulos
-# Título H1
-## Título H2
-### Título H3
-#### Título H4
+"## 1. Títulos
+"# Título H1
+"## Título H2
+"### Título H3
+"#### Título H4
 
 ## 2. Énfasis
 **negrita**, *cursiva*, ~~tachado~~, `código en línea`.
