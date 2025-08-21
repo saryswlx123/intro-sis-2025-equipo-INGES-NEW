@@ -6,7 +6,7 @@ Repositorio creado para la materia de Introducción a los Sistemas, con el fin d
 ## Equipo INGES
 - Jesus David Suarez Henao – @DavidS02304
 - Sarey Nalieth Salguero Landinez – @saryswlx123
-- Liz - @ Lizethbayona06
+- Lizeth Fernanda Bayona Reyes - @ Lizethbayona06
 
 Profesor: **Omar Pinzón Ardila**
 
@@ -20,12 +20,12 @@ Este repositorio tiene como propósito fomentar el desarrollo de habilidades rel
 ## ✅ Tabla de tareas
 | Tarea | Responsable | Estado |
 |-------|-------------|--------|
-| Crear estructura de carpetas | Sarey Nalieth Salguero Landinez| ✅ |
-| Documentar guía Markdown | Sarey Nalieth Salguero Landinez | ⬜ |
-| Creaccion de issues y ramas | Jesus Davidad Suarez Henao | ⬜ |
-| Revisar pull requests | Jesus Davidad Suarez Henao | ⬜ |
-| Proteccion de la rama principal | Liz | ⬜ |
-| Subir csv. de ejemplo y crear un archivo fuente_datos.md  | Liz | ⬜ |
+| Crear estructura de carpetas y archivos | Sarey Nalieth Salguero Landinez| ✅ |
+| Documentar guía Markdown | Lizeth Fernanda Bayona Reyes | ✅ |
+| Documentar bitacora | Sarey Nalieth Salguero Landinez | ✅ |
+| Creaccion de issues, ramas y pull requests | Jesus Davidad Suarez Henao | ✅ |
+| Proteccion de la rama principal | Sarey Nalieth Salguero Landinez | ✅ |
+| Subir csv. de ejemplo y crear un archivo fuente_datos.md  | Jesus Davidad Suarez Henao | ✅ |
 
 
 
