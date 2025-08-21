@@ -7,9 +7,10 @@
 
 ## 2025-08-20
 - **Responsable:** Lizeth Fernanda Bayona Reyes   
-- **Rama:** main  
+- **Rama:** main 
 - **Pull Request:** #2  
-- **Actividad:** Creación de la carpeta `docs/` y adición del archivo `guia-markdown.md` con ejemplos básicos de Markdown.
+- **Actividad:** Creación de la carpetas y archivos, estructura base del repositorio.
+  
 ## 2025-08-20
 - **Responsable:** Sarey Nalieth Salguero Landinez   
 - **Rama:** main  
