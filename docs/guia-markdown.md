@@ -22,13 +22,16 @@ Se utilizan `#` al inicio de la línea para crear títulos:
 
 ## 4. Imágenes
 Ejemplo de imagen:
+
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+
 ## 5. Tablas
-| Nombre | Edad | Ciudad |
-|--------|------|--------|
-| Ana    | 23   | Bogotá |
-| Juan   | 30   | Medellín |
+| Nombre  | Edad | Ciudad |
+|---------|------|-------------|
+| Sarey   | 17   | Bucaramanga |
+| Liz     | 20   | Bucaramanga |
+| David   | 17   | Bucaramanga |
 
 ## 6. Código
 Ejemplo de código en Python:
