@@ -1,37 +1,49 @@
-# Guía rápida de Markdown
+# Guía de Markdown
 
-Esta guía muestra ejemplos básicos que puedes usar en la documentación del proyecto.
+Este documento muestra ejemplos básicos del uso de **Markdown**.
 
 ---
 
 ## 1. Títulos
-Se utilizan `#` al inicio de la línea para crear títulos:
+# Título 1  
+## Título 2  
+### Título 3  
 
-```markdown
+---
+
 ## 2. Listas
-- Elemento 1
-- Elemento 2
-- Elemento 3
 
-1. Paso 1
-2. Paso 2
-3. Paso 3
+- Elemento 1  
+- Elemento 2  
+- Elemento 3  
+
+1. Paso 1  
+2. Paso 2  
+3. Paso 3  
+
+---
 
 ## 3. Enlaces
 [GitHub](https://github.com)
 
+---
+
 ## 4. Imágenes
-Ejemplo de imagen:
+Ejemplo de imagen:  
 
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+---
 
 ## 5. Tablas
-| Nombre  | Edad | Ciudad |
+
+| Nombre  | Edad | Ciudad      |
 |---------|------|-------------|
 | Sarey   | 17   | Bucaramanga |
-| Liz     | 20   | Bucaramanga |
+| Lizeth  | 20   | Bucaramanga |
 | David   | 17   | Bucaramanga |
+
+---
 
 ## 6. Código
 Ejemplo de código en Python:
@@ -40,5 +52,4 @@ Ejemplo de código en Python:
 def saludar():
     print("Hola Mundo")
 saludar()
-
 
