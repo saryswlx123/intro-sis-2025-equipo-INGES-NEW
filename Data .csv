@@ -2,3 +2,16 @@ id,nombre,edad,ciudad
 000585873,Jesus David,17,Bucaramanga
 000562423,Lizeth Fernanda Bayuna,20,Bucaramanga
 000587285,Sarey Nalieth Salguero,17,Bucaramanga
+
+
+Fuente de Datos
+
+- Descripción de columnas :
+  - `id`: identificador único de cada persona.
+  - `nombre`: nombre de la persona.
+  - `edad`: edad en años.
+  - `ciudad`: ciudad de residencia.
+
+- Licencia o permisos:  
+  Datos ficticios creados únicamente para fines educativos.  
+  Sin restricciones de uso.
