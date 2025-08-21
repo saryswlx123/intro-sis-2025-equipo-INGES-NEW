@@ -1,13 +1,12 @@
 # Bitácora de actividades del equipo
 
 ## 2025-08-20
-- **Responsable:** Sarey Nalieth Salguero Landinez y Jesus David Suarez Henao 
+- **Responsable:** Todo el equipo. 
 - **Rama:** main  
-- **Pull Request:** #1  
 - **Actividad:** Creación y redacción inicial del archivo README.md con la descripción del proyecto.
 
 ## 2025-08-20
-- **Responsable:** Sarey Nalieth Salguero Landinez   
+- **Responsable:** Lizeth Fernanda Bayona Reyes   
 - **Rama:** main  
 - **Pull Request:** #2  
 - **Actividad:** Creación de la carpeta `docs/` y adición del archivo `guia-markdown.md` con ejemplos básicos de Markdown.
