@@ -8,33 +8,34 @@ Esta guía muestra ejemplos básicos que puedes usar en la documentación del pr
 Se utilizan `#` al inicio de la línea para crear títulos:
 
 ```markdown
-# Título H1
-## Título H2
-### Título H3
-#### Título H4
-
-```markdown
 ## 2. Listas
+- Elemento 1
+- Elemento 2
+- Elemento 3
 
-Lista no ordenada
+1. Paso 1
+2. Paso 2
+3. Paso 3
 
-- Elemento A
-- Elemento B
-  - Sub-elemento
-Lista ordenada
-1. Paso uno
-2. Paso dos
-3. Paso tres
+## 3. Enlaces
+[GitHub](https://github.com)
 
+## 4. Imágenes
+Ejemplo de imagen:
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+## 5. Tablas
+| Nombre | Edad | Ciudad |
+|--------|------|--------|
+| Ana    | 23   | Bogotá |
+| Juan   | 30   | Medellín |
 
-## 4. Enlaces
-Enlace en línea: [GitHub](https://github.com)
+## 6. Código
+Ejemplo de código en Python:
 
-## 5. Imágenes
-> Sube una imagen a `docs/img/` y referencia con ruta relativa desde `docs/`:
-```markdown
-![Diagrama inicial](./img/diagrama-inicial.png)
-## 6. Tablas
-## 7. Codigos
+```python
+def saludar():
+    print("Hola Mundo")
+saludar()
+
 
